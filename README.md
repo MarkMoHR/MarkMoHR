@@ -2,8 +2,6 @@
 
 I'm [Haoran Mo](https://mo-haoran.com/), a postdoc. researcher in [HKUST (GZ)](https://www.hkust-gz.edu.cn/) working on Computer Graphics and Computer Vision, particularly in **sketch** understanding and generation, **line drawing**-based content generation (AIGC), and **2D animation**.
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=MarkMoHR&show_icons=true&hide=contribs&count_private=true&theme=shadow_blue)](https://github.com/MarkMoHR)
-
 ### Selected Academic Projects
 
 - [JoSTC [TOG & SIGGRAPH 2024]](https://github.com/MarkMoHR/JoSTC): Joint Stroke Tracing and Correspondence for 2D Animation. <a href="https://github.com/MarkMoHR/JoSTC" target="_blank"><img src="https://img.shields.io/github/stars/MarkMoHR/JoSTC"></a>
