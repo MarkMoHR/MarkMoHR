@@ -2,12 +2,14 @@
 
 I'm [Haoran Mo](https://mo-haoran.com/), a postdoc. researcher in [HKUST (GZ)](https://www.hkust-gz.edu.cn/) working on Computer Graphics and Computer Vision, particularly in **sketch** understanding and generation, **line drawing**-based content generation (AIGC), and **2D animation**.
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=MarkMoHR&show_icons=true&hide=contribs&count_private=true&theme=shadow_blue)](https://github.com/MarkMoHR)
+
 ### Selected Academic Projects
 
+- [DoodleAssist [TVCG 2025]](https://github.com/MarkMoHR/DoodleAssist): DoodleAssist: Progressive Interactive Line Art Generation with Latent Distribution Alignment. <a href="https://github.com/MarkMoHR/DoodleAssist" target="_blank"><img src="https://img.shields.io/github/stars/MarkMoHR/DoodleAssist"></a>
 - [JoSTC [TOG & SIGGRAPH 2024]](https://github.com/MarkMoHR/JoSTC): Joint Stroke Tracing and Correspondence for 2D Animation. <a href="https://github.com/MarkMoHR/JoSTC" target="_blank"><img src="https://img.shields.io/github/stars/MarkMoHR/JoSTC"></a>
 - [virtual_sketching [SIGGRAPH 2021]](https://github.com/MarkMoHR/virtual_sketching): General Virtual Sketching Framework for Vector Line Art. <a href="https://github.com/MarkMoHR/virtual_sketching" target="_blank"><img src="https://img.shields.io/github/stars/MarkMoHR/virtual_sketching"></a>
 - [SketchySceneColorization [SIGGRAPH Asia 2019]](https://github.com/SketchyScene/SketchySceneColorization): Language-based Colorization of Scene Sketches. <a href="https://github.com/SketchyScene/SketchySceneColorization" target="_blank"><img src="https://img.shields.io/github/stars/SketchyScene/SketchySceneColorization"></a>
-- [DiffSketchEdit [ICME 2024]](https://github.com/MarkMoHR/DiffSketchEdit): Text-based Vector Sketch Editing with Image Editing Diffusion Prior. <a href="https://github.com/MarkMoHR/DiffSketchEdit" target="_blank"><img src="https://img.shields.io/github/stars/MarkMoHR/DiffSketchEdit"></a>
 - [SketchyScene [ECCV 2018]](https://github.com/SketchyScene/SketchyScene): SketchyScene: Richly-Annotated Scene Sketches. <a href="https://github.com/SketchyScene/SketchyScene" target="_blank"><img src="https://img.shields.io/github/stars/SketchyScene/SketchyScene"></a>
 
 ### Academic Resources
