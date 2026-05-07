@@ -6,7 +6,8 @@ I'm [Haoran Mo](https://mo-haoran.com/), a postdoc. researcher in [HKUST (GZ)](h
 
 ### Selected Academic Projects
 
-- [DoodleAssist [TVCG 2025]](https://github.com/MarkMoHR/DoodleAssist): DoodleAssist: Progressive Interactive Line Art Generation with Latent Distribution Alignment. <a href="https://github.com/MarkMoHR/DoodleAssist" target="_blank"><img src="https://img.shields.io/github/stars/MarkMoHR/DoodleAssist"></a>
+- [LayerInbetween [SIGGRAPH 2026 (TOG)]](https://github.com/MarkMoHR/LayerInbetween): Occlusion-Aware Stroke Correspondence and Inbetweening with Automatic Layering. <a href="https://github.com/MarkMoHR/LayerInbetween" target="_blank"><img src="https://img.shields.io/github/stars/MarkMoHR/LayerInbetween"></a>
+- [DoodleAssist [TVCG 2025]](https://github.com/MarkMoHR/DoodleAssist): Progressive Interactive Line Art Generation with Latent Distribution Alignment. <a href="https://github.com/MarkMoHR/DoodleAssist" target="_blank"><img src="https://img.shields.io/github/stars/MarkMoHR/DoodleAssist"></a>
 - [JoSTC [TOG & SIGGRAPH 2024]](https://github.com/MarkMoHR/JoSTC): Joint Stroke Tracing and Correspondence for 2D Animation. <a href="https://github.com/MarkMoHR/JoSTC" target="_blank"><img src="https://img.shields.io/github/stars/MarkMoHR/JoSTC"></a>
 - [virtual_sketching [SIGGRAPH 2021]](https://github.com/MarkMoHR/virtual_sketching): General Virtual Sketching Framework for Vector Line Art. <a href="https://github.com/MarkMoHR/virtual_sketching" target="_blank"><img src="https://img.shields.io/github/stars/MarkMoHR/virtual_sketching"></a>
 - [SketchySceneColorization [SIGGRAPH Asia 2019]](https://github.com/SketchyScene/SketchySceneColorization): Language-based Colorization of Scene Sketches. <a href="https://github.com/SketchyScene/SketchySceneColorization" target="_blank"><img src="https://img.shields.io/github/stars/SketchyScene/SketchySceneColorization"></a>
