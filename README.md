@@ -21,6 +21,7 @@ I'm [Haoran Mo](https://mo-haoran.com/), a postdoc. researcher in [HKUST (GZ)](h
 - [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis) <a href="https://github.com/MarkMoHR/Awesome-Sketch-Synthesis" target="_blank"><img src="https://img.shields.io/github/stars/MarkMoHR/Awesome-Sketch-Synthesis"></a>
 - [Awesome-Referring-Image-Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation) <a href="https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation" target="_blank"><img src="https://img.shields.io/github/stars/MarkMoHR/Awesome-Referring-Image-Segmentation"></a>
 - [Awesome-2D-Animation](https://github.com/MarkMoHR/Awesome-2D-Animation) <a href="https://github.com/MarkMoHR/Awesome-2D-Animation" target="_blank"><img src="https://img.shields.io/github/stars/MarkMoHR/Awesome-2D-Animation"></a>
+- [Awesome-Motion-Style-Transfer](https://github.com/MarkMoHR/Awesome-Motion-Style-Transfer) 
 
 <!--
 **MarkMoHR/MarkMoHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
