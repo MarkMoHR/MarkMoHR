@@ -2,7 +2,7 @@
 
 I'm [Haoran Mo](https://mo-haoran.com/), a postdoc. researcher in [HKUST (GZ)](https://www.hkust-gz.edu.cn/) working on Computer Graphics and Computer Vision, particularly in **Sketch-based Visual Creation**, **2D/3D Animation**, and **Multi-modal LLMs**.
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=MarkMoHR&show_icons=true&hide=contribs&count_private=true&rank_icon=github&theme=shadow_blue)](https://github.com/MarkMoHR)
+[![Stats](https://ghstats.dev/api/card?username=MarkMoHR&hide=prs,issues,streak,week,trend,avg,active_day,grade,contributions,repos,hours&show_ring=false&theme=light)](https://github.com/MarkMoHR)
 
 ### Selected Academic Projects
 
